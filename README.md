@@ -1,1 +1,1 @@
-### The project poster gives an overview of the project.
+### The poster gives an overview of the project.

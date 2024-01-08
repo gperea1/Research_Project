@@ -1,1 +1,1 @@
-### The Project_Poster gives an overview of the project.
+### The Project_Poster.pdf gives an overview of the project.
